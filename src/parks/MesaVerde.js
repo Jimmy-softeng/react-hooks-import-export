@@ -1,7 +1,12 @@
 import React from "react";
 
 function MesaVerde() {
-  return <h1>Mesa Verde National Park</h1>;
+  return (
+    <div
+    ><h1>Mesa Verde National Park</h1>
+    </div>
+    
+  );
 }
 
 export default MesaVerde;
